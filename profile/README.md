@@ -37,5 +37,5 @@ implementations to help everyone **design, run, and trust** autonomous agentic s
 ---
 
 <div align="center">
-<sub>© Denaro Labs, Inc. Reach the OSS team at **[oss@denaroai.com](mailto:oss@denaroai.com)**</sub>
+<sub>© Denaro Labs, Inc. Reach the OSS team at oss@denaroai.com</sub>
 </div>
