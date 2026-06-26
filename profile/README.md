@@ -1,6 +1,6 @@
 <div align="center">
 
-# denaro labs
+# Denaro Labs, Inc.
 
 <a href="https://denaroai.com">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Embracing+the+era+of+agentic+workflows.;Design.+Run.+Trust+your+agents." alt="Embracing the era of agentic workflows." />
@@ -37,5 +37,5 @@ implementations to help everyone **design, run, and trust** autonomous agentic s
 ---
 
 <div align="center">
-<sub>© Denaro Labs, Inc. Reach the OSS team at oss@denaroai.com</sub>
+<sub>© Denaro Labs, Inc. Reach us at contact@denaroai.com</sub>
 </div>
